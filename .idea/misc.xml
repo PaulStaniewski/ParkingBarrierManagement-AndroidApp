@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/drawable-v24/circle.xml" value="0.1555" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/drawable-v24/ic_add_black_24dp.xml" value="0.1555" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1555" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/drawable/background_splashscreen.xml" value="0.1555" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1555" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/drawable/splash_background.xml" value="0.196" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/activity_add__data_.xml" value="0.25" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/activity_edit_.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/activity_splash.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/custom_list_item.xml" value="0.22" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/layout/themes.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1555" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1555" />
+        <entry key="..\:/Users/geeha/Documents/CRUD3-Demo-master/app/src/main/res/xml/network_security_config.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
